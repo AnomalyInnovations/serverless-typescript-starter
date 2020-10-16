@@ -23,7 +23,7 @@ This starter uses the [serverless-bundle](https://github.com/AnomalyInnovations/
 
 A demo version of this service is hosted on AWS - [`https://ylsml6v6r6.execute-api.us-east-1.amazonaws.com/dev/hello`](https://ylsml6v6r6.execute-api.us-east-1.amazonaws.com/dev/hello)
 
-And here is the ES6 source behind it
+And here is the TS source behind it
 
 ``` javascript
 export async function hello(
@@ -60,7 +60,7 @@ Enter the new directory
 $ cd my-project
 ```
 
-Install the Node.js packages
+Install the npm packages
 
 ``` bash
 $ npm install
